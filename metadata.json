@@ -1,0 +1,6 @@
+{
+  "name": "SkySuite - Studio Business Management",
+  "description": "Everything Your Studio Needs, In One Suite. Production business management SaaS for photographers, videographers, and creative studios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
